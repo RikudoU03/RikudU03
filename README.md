@@ -1,1 +1,4 @@
 # RikudU03
+
+Mi nombre es Jonathan Nuñez, soy originario de Cd. Obregon en el estado de Sonora. Actualmente me encuentro cursando mis estudios en la Universidad Tecnologica de Mexico (UNITEC) en la carrera de Ingenieria en Software y Redes.
+Ademas de mis estudios, tambien desempeño labores en una altamente reconocida empresa de mi ciudad, Constellation Brands. Una cerveceria en la cual elaboranos diferentes tipos de cerveza de las marcas Pacifico, Corona, Modelo, etcetera. Actualmente posicionadas como una de las mejores cervezas del mundo. Gracias a la insistencia de algunos superiores tome la desicion de continuar con mis estudios de grado superior puesto que los habia suspendido. Tengo la intencion de lograr conseguir un puesto mejor establecido en la empresa en la cual ahora me encuentro.
